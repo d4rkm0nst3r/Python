@@ -16,7 +16,7 @@ for i in range(0,max,2):
     j+=1
     print(linea)
  
-# cramos el tronco
+# creamos el tronco
 linea=(separacion+math.ceil(max/2)-3)*" "
 linea+=4*"*"
 print(linea)
